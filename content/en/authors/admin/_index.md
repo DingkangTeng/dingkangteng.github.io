@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dingkang Teng 滕定康
+title: Dingkang Teng
 
 # Name pronunciation (optional)
 name_pronunciation: ''
