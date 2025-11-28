@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Dingkang Teng 滕定康
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Dingkang
+last_name: Teng
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,35 +23,38 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Transportation GISer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Technology Infrastructure Policy Lab
+    url: https://thetipteam.wixstudio.com/website
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:dingkang.teng@connect.polyu.hk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  # - icon: brands/x
+  #   url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://github.com/DingkangTeng
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/in/alexjohnsonai/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0000-2008-2101
+  - icon: "custom/facebook"
+    url: https://tengdingkang.fun/nas.php
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Spatial Analysis
+  - Transportation & Infrastructure
+  - Land Use
+  - Socio-Spatial Implications
+  - Big Data & Geo AI
 
 education:
   # - area: PhD Computer Science (AI Focus)
@@ -64,42 +67,54 @@ education:
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+  - area: MSc in Urban Informatics and Smart Cities
+    institution: Hong Kong Polytechnic University
+    icon: "custom/polyu"
+    date_start: 2024-09-01
+    date_end: ''
+    # summary: |
+    #   GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
+    #   Specialized in machine learning and robotics.
+  - area: B.A. in Land Resource Management
+    institution: Huazhong Agricultural University
+    icon: "custom/hzau"
+    date_start: 2015-09-01
+    date_end: 2019-06-20
+    # summary: |
+    #   GPA: 3.9/4.0
 
-      Minored in Mathematics. President of AI Club.
+    #   Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    icon: ''
-    date_start: 2020-01-01
+  - position: Reserarch Assistant & Teaching Assistant
+    company_name: Hong Kong Polytechnic University
+    # company_url: 'https://ai.meta.com/'
+    icon: "custom/polyu"
+    date_start: 2025-01-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+      Focusing on Technology innovation, Infrastructure planning and Policy making in Smart Cities
+
+      Conduct research projects related to charging infrastructure across the globe and author research papers.
+
+      Collecting, analyzing, visualizing the data for the research group.
+
+      Served as TA in Teaching Assistant, Intelligent Transportation Systems (LSGI3213). Facilitated weekly lab sessions, providing hands-on guidance for data analysis and simulation modeling software.
+
+  - position: Technical Manager
+    company_name: Realhom Land Real Estate Assets Appraisal Co., Ltd
+    company_url: 'https://www.realhom.com/'
+    icon: "custom/realhom"
+    date_start: 2018-10-22
+    date_end: 2024-06-21
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Managed advanced engineering tasks with focus on natural resource survey and evaluation, IT support, and led geography information initiatives including data analysis, database construction, mapping, and GIS training.
+
+      Conducted a comprehensive study on the evaluation method for state-owned agricultural land use rights.
+
+      Spearheaded the secondary development of an automated calculation and processing tool in ArcGIS designed to enhance efficiency and accuracy within natural resource projects.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -169,4 +184,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Dingkang Teng is a part-time Research Assistant in LSGI, PolyU under the supervision of Dr. Zhuge and is also a Master student in Urban Informatics and Smart Cities at the Hong Kong Polytechnic University. He obtained his bachelor's degree in Land Resources Management from Huazhong Agricultural University. His research interests include urban transportation infrastructure, land use, and big data analytics.
