@@ -25,4 +25,4 @@ mounts:
     target: assets
   # Common publications
   - source: publications
-    target: publications
+    target: content/publications/
