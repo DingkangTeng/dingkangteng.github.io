@@ -168,42 +168,42 @@ languages:
 awards:
   - title: 协会会长
     url: ''
-    date: '2016'
+    date: '2016-06-01'
     awarder: 华中农业大学土地研究协会
     icon: hero/academic-cap
     summary: |
-      在2016至2018年间担任华中农业大学土地研究协会会长，并策划举办了新生舞会、校园规划大赛等活动
+      在2016年加入华中农业大学土地研究协会，并于2017至2018年间担任会长。在协会工作期间策划举办了新生舞会、校园规划大赛等活动
   - title: 一等奖
     url: ''
-    date: '2018'
+    date: '2018-06-05'
     awarder: 华中农业大学“永业行杯”土地资源管理本科生村级土地利用规划技能大赛
     icon: hero/trophy
     summary: |
       领导龙马村土地利用规划，管理团队协调，撰写项目报告
   - title: 二等奖
     url: ''
-    date: '2018'
+    date: '2018-06-10'
     awarder: “华夏土地杯”第一届全国大学生土地利用规划技能大赛
     icon: hero/trophy
     summary: |
       作为龙马村项目的团队负责人，我牵头负责了龙马村土地利用规划的优化工作，运用 ArcGIS 完成了核心的数据分析工作，并承担团队内的协调任务
   - title: 三等奖
     url: ''
-    date: '2018'
+    date: '2018-07-14'
     awarder: 第二届全国土地资源管理专业大学生不动产估价技能大赛
     icon: hero/trophy
     summary: |
       编制了房地产评估报告，并使用模糊层次分析法进行数据分析
   - title: 荣誉称号
     url: ''
-    date: '2017'
+    date: '2017-12-14'
     awarder: 2017年华中农业大学暑期社会实践“先进个人”
     icon: hero/trophy
     summary: |
       带领团队成员承担了国家大学生创新创业训练计划的子项目
   - title: 二等奖
     url: ''
-    date: '2017'
+    date: '2017-10-15'
     awarder: 华中农业大学第二届“苍穹数码杯”土地信息系统技能竞赛
     icon: hero/trophy
     summary: |
