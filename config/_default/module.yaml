@@ -24,7 +24,5 @@ mounts:
   - source: assets
     target: assets
   # Common publications
-  - source: publications
-    target: publications
-  - source: publications
+  - source: content/publications
     target: zh/publications
