@@ -46,7 +46,7 @@ profiles:
   #   url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-2008-2101
-  - icon: "custom/facebook"
+  - icon: "custom/person"
     url: https://tengdingkang.fun/nas.php
 
 interests:
@@ -78,6 +78,7 @@ education:
     #   Specialized in machine learning and robotics.
   - area: B.A. in Land Resource Management
     institution: Huazhong Agricultural University
+    url: https://en.hzau.edu.cn/
     icon: "custom/hzau"
     date_start: 2015-09-01
     date_end: 2019-06-20
@@ -88,8 +89,8 @@ education:
 
 work:
   - position: Reserarch Assistant & Teaching Assistant
-    company_name: Hong Kong Polytechnic University
-    # company_url: 'https://ai.meta.com/'
+    company_name: Technology Infrastructure Policy Lab · Hong Kong Polytechnic University
+    company_url: https://thetipteam.wixstudio.com/website
     icon: "custom/polyu"
     date_start: 2025-01-01
     date_end: ''
@@ -100,11 +101,11 @@ work:
 
       Collecting, analyzing, visualizing the data for the research group.
 
-      Served as TA in Teaching Assistant, Intelligent Transportation Systems (LSGI3213). Facilitated weekly lab sessions, providing hands-on guidance for data analysis and simulation modeling software.
+      Served as TA in course Intelligent Transportation Systems (LSGI3213). Facilitated weekly lab sessions, providing hands-on guidance for data analysis and simulation modeling software.
 
   - position: Technical Manager
     company_name: Realhom Land Real Estate Assets Appraisal Co., Ltd
-    company_url: 'https://www.realhom.com/'
+    company_url: https://www.realhom.com/
     icon: "custom/realhom"
     date_start: 2018-10-22
     date_end: 2024-06-21
@@ -222,4 +223,4 @@ awards:
   #     Recognized for contributions to scaling laws in deep learning.
 ---
 
-Dingkang Teng is a part-time Research Assistant in LSGI, PolyU under the supervision of <a herf="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-zhuge-cheng-xiang/">Dr. Zhuge</a> and is also a Master student in Urban Informatics and Smart Cities at the Hong Kong Polytechnic University. He obtained his bachelor's degree in Land Resources Management from Huazhong Agricultural University. His research interests include urban transportation infrastructure, land use, and big data analytics.
+Dingkang Teng is a part-time Research Assistant in <a href="https://www.polyu.edu.hk/lsgi/">LSGI, PolyU</a> under the supervision of <a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-zhuge-cheng-xiang/">Dr. Zhuge</a> and is also a Master student in Urban Informatics and Smart Cities at the Hong Kong Polytechnic University. He obtained his bachelor's degree in Land Resources Management from <a href="https://en.hzau.edu.cn/">Huazhong Agricultural University</a>. His research interests include urban transportation infrastructure, land use, and big data analytics.

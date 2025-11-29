@@ -46,7 +46,7 @@ profiles:
   #   url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-2008-2101
-  - icon: "custom/facebook"
+  - icon: "custom/person"
     url: https://tengdingkang.fun/nas.php
 
 interests:
@@ -88,9 +88,9 @@ education:
 
 work:
   - position: 科研助理及助教
-    company_name: 香港理工大学
-    # company_url: 'https://ai.meta.com/'
-    icon: "custom/polyu"
+    company_name: Technology Infrastructure Policy Lab · 香港理工大学
+    company_url: https://thetipteam.wixstudio.com/website
+    icon: "custom/tip"
     date_start: 2025-01-01
     date_end: ''
     summary: |2-
@@ -100,11 +100,11 @@ work:
 
       为研究小组收集、分析、可视化成果。
 
-      在Teaching Assistant, Intelligent Transportation Systems (LSGI3213)课程担任助教，主要负责协助每周的实验课，为数据分析和仿真建模软件提供指导
+      在Intelligent Transportation Systems (LSGI3213)课程担任助教，主要负责协助每周的实验课，为数据分析和仿真建模软件提供指导
 
   - position: 技术经理
     company_name: 永业行土地房地产资产评估有限公司
-    company_url: 'https://www.realhom.com/'
+    company_url: https://www.realhom.com/
     icon: "custom/realhom"
     date_start: 2018-10-22
     date_end: 2024-06-21
@@ -190,7 +190,7 @@ awards:
     awarder: “华夏土地杯”第一届全国大学生土地利用规划技能大赛
     icon: hero/trophy
     summary: |
-      作为龙马村项目的团队负责人，我牵头负责了龙马村土地利用规划的优化工作，运用 ArcGIS 完成了核心的数据分析工作，并承担团队内的协调任务
+      作为龙马村项目的团队负责人，牵头负责了龙马村土地利用规划的优化工作，运用 ArcGIS 完成了核心的数据分析工作，并承担团队内的协调任务
   - title: 三等奖
     url: ''
     date: '2018-07-14'
@@ -221,4 +221,4 @@ awards:
   #     Recognized for contributions to scaling laws in deep learning.
 ---
 
-目前，我在香港理工大学土地测量及资讯学系（LSGI）担任兼职研究助理，师从<a herf="https://geospatial.szu.edu.cn/info/1382/6430.htm">诸葛承祥</a>老师，并于此同时攻读城市信息学与智慧城市的硕士学位。我的学术训练始于华中农业大学的土地资源管理专业，而今，我的研究聚焦于城市交通基础设施、土地利用与大数据分析的交叉领域。
+目前，我在<a href="https://www.polyu.edu.hk/lsgi/">香港理工大学土地测量及资讯学系（LSGI）</a>担任兼职科研助理，师从<a href="https://geospatial.szu.edu.cn/info/1382/6430.htm">诸葛承祥</a>老师，并于此同时攻读城市信息学与智慧城市的硕士学位。我的学术训练始于<a href="https://ggxy.hzau.edu.cn/">华中农业大学</a>的土地资源管理专业，而今，我的研究聚焦于城市交通基础设施、土地利用与大数据分析的交叉领域。
