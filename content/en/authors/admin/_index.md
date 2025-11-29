@@ -155,9 +155,13 @@ skills:
         icon: cpu-chip
 
 languages:
-  - name: Chinese<br>(Putonghua)
+  - name: |
+      Chinese
+      (Putonghua)
     percent: 100
-  - name: Chinese<br>(Cantonese)
+  - name: |
+      Chinese
+      (Cantonese)
     percent: 50
   - name: English
     percent: 90

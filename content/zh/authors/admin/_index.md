@@ -154,9 +154,13 @@ skills:
         icon: cpu-chip
 
 languages:
-  - name: 中文<br>(普通话)
+  - name: |
+      中文
+      （普通话）
     percent: 100
-  - name: 中文<br>(粤语)
+  - name: |
+      中文
+      （粤语）
     percent: 50
   - name: English
     percent: 90
