@@ -24,15 +24,16 @@ mounts:
   - source: assets
     target: assets
   # Common publications
-  # - source: content/zh
-  #   target: content/zh/
-  #   lang: zh
-  # - source: content/publications
-  #   target: content/zh/publications/
-  #   lang: zh
-  # - source: content/en
-  #   target: content/
-  #   lang: en
-  # - source: content/_papers
-  #   target: content/publications/
-  #   lang: en
+  - source: content/en
+    target: content/
+    lang: en
+  - source: content/_papers
+    target: content/publications/
+    lang: en
+  - source: content/zh
+    target: content/zh/
+    lang: zh
+  - source: content/publications
+    target: content/zh/publications/
+    lang: zh
+
