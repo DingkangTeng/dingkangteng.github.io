@@ -26,3 +26,7 @@ mounts:
   # Common publications
   - source: content/publications
     target: content/zh/publications/
+    lang: zh
+  - source: content/publications
+    target: content/en/publications/
+    lang: en
