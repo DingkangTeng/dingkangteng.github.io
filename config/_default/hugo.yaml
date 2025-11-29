@@ -13,7 +13,16 @@ baseURL: 'https://dingkangteng.github.io/'
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+languages:
+  en:
+    weight: 1
+    languageName: English
+    hasCJKLanguage: false
+  zh:
+    weight: 2
+    languageName: 中文
+    hasCJKLanguage: true
+
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
