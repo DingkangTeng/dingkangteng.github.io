@@ -218,4 +218,4 @@ awards:
   #     Recognized for contributions to scaling laws in deep learning.
 ---
 
-Dingkang Teng is a part-time Research Assistant in LSGI, PolyU under the supervision of Dr. Zhuge and is also a Master student in Urban Informatics and Smart Cities at the Hong Kong Polytechnic University. He obtained his bachelor's degree in Land Resources Management from Huazhong Agricultural University. His research interests include urban transportation infrastructure, land use, and big data analytics.
+Dingkang Teng is a part-time Research Assistant in LSGI, PolyU under the supervision of <a herf="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-zhuge-cheng-xiang/">Dr. Zhuge</a> and is also a Master student in Urban Informatics and Smart Cities at the Hong Kong Polytechnic University. He obtained his bachelor's degree in Land Resources Management from Huazhong Agricultural University. His research interests include urban transportation infrastructure, land use, and big data analytics.
