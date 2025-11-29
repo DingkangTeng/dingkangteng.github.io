@@ -91,7 +91,7 @@ work:
   - position: Reserarch Assistant & Teaching Assistant
     company_name: Technology Infrastructure Policy Lab · Hong Kong Polytechnic University
     company_url: https://thetipteam.wixstudio.com/website
-    icon: "custom/polyu"
+    icon: "custom/tip"
     date_start: 2025-01-01
     date_end: ''
     summary: |2-
